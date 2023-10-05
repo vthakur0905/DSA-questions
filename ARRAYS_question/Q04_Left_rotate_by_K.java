@@ -1,5 +1,7 @@
 package A1_Arrays;
 
+// Ques - https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems
+
 import java.util.Arrays;
 
 public class Q04_Left_rotate_by_K {
