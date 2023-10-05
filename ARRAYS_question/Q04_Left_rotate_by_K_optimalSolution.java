@@ -1,4 +1,7 @@
 package A1_Arrays;
+
+//Ques - https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems
+
 // in this we just reverse the array to get the answer
 
 import java.util.Arrays;
