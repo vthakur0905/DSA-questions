@@ -1,5 +1,7 @@
 package A1_Arrays;
 
+// Ques - https://www.codingninjas.com/studio/problems/ninja-and-the-zero-s_6581958?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems
+
 import java.util.Arrays;
 
 public class Q06_Move_Zeros_to_end {
