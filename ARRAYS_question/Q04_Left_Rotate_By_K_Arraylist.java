@@ -1,6 +1,8 @@
 package A1_Arrays;
 import java.util.ArrayList;
 
+// Ques - https://www.codingninjas.com/studio/problems/rotate-array_1230543?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems
+
 public class Q04_Left_Rotate_By_K_Arraylist {
     public static void main(String[] args) {
 
