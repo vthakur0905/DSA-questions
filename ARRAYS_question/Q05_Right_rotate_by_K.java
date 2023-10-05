@@ -1,5 +1,7 @@
 package A1_Arrays;
 
+// Ques - https://leetcode.com/problems/rotate-array/description/
+
 import java.util.Arrays;
 
 public class Q05_Right_rotate_by_K {
